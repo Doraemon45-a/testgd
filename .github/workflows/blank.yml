@@ -27,7 +27,7 @@ jobs:
 
     - name: Download MKV file
       run: |
-        curl -L -o video.mkv "https://tipigd.tipikus.workers.dev/0:/MirrorFolder%20oleh%20kobomirrorbot/Impetigore/Impetigore.2019.1080p.BluRay.x264.DD5.1-Pahe.in.mkv"
+        curl -L -o video.mkv "https://tipigd.tipikus.workers.dev/0:/series/Solo%20Leveling%20S02/Solo.Leveling.S02E13.mkv"
 
     - name: Convert MKV to MP4
       run: |
